@@ -1,1 +1,1 @@
-## DeepLearinig Projects
+## Deep Learinig Projects
